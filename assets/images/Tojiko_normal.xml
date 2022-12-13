@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tojiko_normal.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="tojiko school normal idle angry0000" x="0" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle angry20000" x="617" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle deception0000" x="1234" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle deception20000" x="1851" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle ego0000" x="2468" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle embarrassed0000" x="3085" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle hangry0000" x="3702" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle happy0000" x="4319" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle happy20000" x="4936" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle jeje0000" x="5553" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle neutral0000" x="6170" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle neutral20000" x="6787" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle normal0000" x="7404" y="0" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle oh0000" x="0" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle sad0000" x="617" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle sad20000" x="1234" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal idle sad30000" x="1851" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking angry0000" x="2468" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking angry20000" x="3085" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking deception0000" x="3702" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking deception20000" x="4319" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking ego0000" x="4936" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking embarrassed0000" x="5553" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking hangry0000" x="6170" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking happy0000" x="6787" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking happy20000" x="7404" y="1927" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking jeje0000" x="0" y="3854" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking neutral0000" x="617" y="3854" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking neutral20000" x="1234" y="3854" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking normal0000" x="1851" y="3854" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking oh0000" x="2468" y="3854" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking sad0000" x="3085" y="3854" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking sad20000" x="3702" y="3854" width="617" height="1927"/>
+	<SubTexture name="tojiko school normal talking sad30000" x="4319" y="3854" width="617" height="1927"/>
+</TextureAtlas>

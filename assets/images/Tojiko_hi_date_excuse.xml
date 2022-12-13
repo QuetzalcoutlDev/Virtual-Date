@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tojiko_hi_date_excuse.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="tojiko school date idle happy0000" x="0" y="0" width="602" height="1927"/>
+	<SubTexture name="tojiko school date idle jeje0000" x="602" y="0" width="602" height="1927"/>
+	<SubTexture name="tojiko school date idle neutral0000" x="1204" y="0" width="602" height="1927"/>
+	<SubTexture name="tojiko school date idle normal0000" x="1806" y="0" width="602" height="1927"/>
+	<SubTexture name="tojiko school date idle oh0000" x="2408" y="0" width="602" height="1927"/>
+	<SubTexture name="tojiko school date talking happy0000" x="3010" y="0" width="602" height="1927"/>
+	<SubTexture name="tojiko school date talking jeje0000" x="3612" y="0" width="602" height="1927"/>
+	<SubTexture name="tojiko school date talking neutral0000" x="1204" y="0" width="602" height="1927"/>
+	<SubTexture name="tojiko school date talking normal0000" x="4214" y="0" width="602" height="1927"/>
+	<SubTexture name="tojiko school date talking oh0000" x="4816" y="0" width="602" height="1927"/>
+	<SubTexture name="tojiko school excuse idle angry0000" x="5418" y="0" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse idle happy0000" x="6022" y="0" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse idle jeje0000" x="6626" y="0" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse idle neutral0000" x="7230" y="0" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse idle normal0000" x="0" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse idle sad0000" x="604" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse idle sad20000" x="1208" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse idle sad30000" x="1812" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse talking angry0000" x="2416" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse talking happy0000" x="3020" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse talking jeje0000" x="3624" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse talking normal0000" x="4228" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse talking sad0000" x="4832" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse talking sad20000" x="5436" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse talking sad30000" x="6040" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school excuse tallking neutral0000" x="6644" y="1927" width="604" height="1927"/>
+	<SubTexture name="tojiko school hi idle happy0000" x="7248" y="1927" width="679" height="1927"/>
+	<SubTexture name="tojiko school hi idle normal0000" x="0" y="3854" width="679" height="1927"/>
+	<SubTexture name="tojiko school hi talking happy0000" x="679" y="3854" width="679" height="1927"/>
+	<SubTexture name="tojiko school hi talking normal0000" x="1358" y="3854" width="679" height="1927"/>
+</TextureAtlas>
