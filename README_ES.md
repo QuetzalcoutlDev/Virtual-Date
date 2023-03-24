@@ -70,6 +70,6 @@ Todas mis redes: https://allmylinks.com/elquetzalcoutl
 
 ## Mis otros proyectos
 
-1. Lonely Imagination (DDLC inspired VN) :https://quetzalcoutl.itch.io/Alone
-2. FNF mods: https://gamebanana.com/members/2176391
-3. LMMS projects: https://lmms.io/lsp/?action=browse&user=QuetzalcoultDev
+
+1. FNF mods: https://gamebanana.com/members/2176391
+2. LMMS projects: https://lmms.io/lsp/?action=browse&user=QuetzalcoultDev
